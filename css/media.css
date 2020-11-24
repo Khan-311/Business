@@ -1,0 +1,19 @@
+@media(max-width:375px){
+    .navbar-brand{
+        width: 80%;
+
+    }
+    .navbar-brand img{
+        width: 80%;
+    }
+    .top-header ul li {
+       margin-left: 0;
+       }
+       .top-header ul li {
+      
+        font-size: 14px;
+      
+    }
+}
+
+
